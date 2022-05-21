@@ -15,3 +15,11 @@
 3. Make a list of known issues, and update it.
 
 4. Any ROM-specific bugs that have nothing to do with your trees can be reported in our [chat channel](https://t.me/AniOSPChat).
+
+5. Be friendly to the users.
+
+----------------------------
+### Some extra notes.
+----------------------------
+
+1. If you break any of these guidelines, we reserve the right to remove your maintainer status.
